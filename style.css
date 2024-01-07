@@ -1,0 +1,116 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    font-size: 1rem;
+    color: #222222;
+}
+h1,h2,h3,h4,h4,h5{
+    font-family: 'Inter', sans-serif;
+    text-transform: uppercase;
+    text-decoration: solid;
+    font-weight: 500;
+   
+
+}
+#banner{
+    object-fit: fill;
+}
+
+#About{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    max-width: 800px;
+
+}
+#image{
+    padding-left: 0%;
+    padding-right: 0%;
+    width: 450px;
+    height: 250px;
+    border-radius: 8px;
+}
+#description{
+    width: 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 1.25rem;
+}
+#teamimage{
+    width: 50%;
+}
+#logo{
+    height: 30px;
+    width: 30px;
+}
+#table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.jobtitle{
+    border: 1px solid  black;
+    background-color: aliceblue;
+    text-align: left;
+    padding: 8px;
+}
+.jobdata td{
+    border: 1px solid black;
+    padding: 8px;
+    
+}
+#table tr:nth-child(even){
+    background-color: rgb(95, 242, 235);
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+}
+#banner{
+    width: 100%;
+}
+.location{
+    color: rgb(21, 17, 220);
+    margin: bottom 16px; ;
+}
+h2{
+    text-align: center;
+}
+#jobs{
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 0 10px;
+}
+h3{
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+.jij{
+    float:right;
+}
+a{
+    text-decoration: none;
+}
+#footer{
+    background-color: rgb(221, 221, 226);
+    padding: 8px;
+    margin-top: 32px;
+    text-align: center;
+    
+}
+#footer-links{
+    list-style: none;
+    
+}
+#footer-links li{
+    display: inline;
+    margin: 0 16px;
+
+}
+#jij1{
+    width: 100%;
+}
